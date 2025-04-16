@@ -63,7 +63,7 @@ This is a Python-based graphical user interface (GUI) application for classifyin
 - Convert to a web-based interface using Flask or Streamlit
 
 - 
-  **Mentor**
+##**Mentor**
 Mr. Anand Kumar
 Assistant Professor
 Lovely Professional University
