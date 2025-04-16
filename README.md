@@ -62,16 +62,19 @@ This is a Python-based graphical user interface (GUI) application for classifyin
 - Extend GUI to include audio or image-based emotion recognition
 - Convert to a web-based interface using Flask or Streamlit
 
-- 
-##**Mentor**
-Mr. Anand Kumar
-Assistant Professor
-Lovely Professional University
-Phagwara ,Punjab
+## Mentor
 
+**Mr. Anand Kumar**  
+Assistant Professor  
+Lovely Professional University  
+Phagwara, Punjab
 
 ## Author
 
-Kritagya Pandey  
-Student, Lovely Professional University
+**Kritagya Pandey**  
+Student  
+Lovely Professional University
 
+## License
+
+This project is open source and available under the MIT License.
